@@ -1,0 +1,15 @@
+de\merix\lobbysystem\listeners\PlayerDropListener.class
+de\merix\lobbysystem\listeners\PlayerBlockBreakListener.class
+de\merix\lobbysystem\listeners\PlayerHungerListener.class
+de\merix\lobbysystem\listeners\PlayerQuitListener.class
+de\merix\lobbysystem\LobbySystem.class
+de\merix\lobbysystem\utils\NavigatorInteraction.class
+de\merix\lobbysystem\Data.class
+de\merix\lobbysystem\listeners\BlockPlaceListener.class
+de\merix\lobbysystem\listeners\PlayerJoinListener.class
+de\merix\lobbysystem\commands\SpawnCommand.class
+de\merix\lobbysystem\utils\PlayerHiderInteraction.class
+de\merix\lobbysystem\listeners\PlayerItemPickupListener.class
+de\merix\lobbysystem\commands\FlyCommand.class
+de\merix\lobbysystem\listeners\PlayerDamageListener.class
+de\merix\lobbysystem\commands\BuildCommand.class

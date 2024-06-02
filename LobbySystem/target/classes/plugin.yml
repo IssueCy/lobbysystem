@@ -1,0 +1,13 @@
+name: LobbySystem
+version: '1.0'
+main: de.merix.lobbysystem.LobbySystem
+api-version: '1.20'
+commands:
+  fly:
+    permission: commands.fly
+  dc:
+    aliases: [discord]
+  spawn:
+    aliases: [l, lobby, leave, hub, quit]
+  build:
+    permission: commands.build
